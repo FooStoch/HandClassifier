@@ -1,0 +1,6 @@
+First, I collected images for A-Z using OpenCV Python and they are saved in C:User/victo/data. 
+Second, I created a dataset and had to make the length of data_aux stay as 42. 
+Third, I trained my RandomForestClassifier. 
+Last, run the program in inference_classifier.py.
+
+I used Python 3.9.13 and had to do "pip install" on all of the requirements. 
